@@ -29,7 +29,7 @@ The project also includes bug reporting practice to simulate real-world QA workf
   - Requirement analysis  
   - Positive and negative test cases  
   - Expected vs. actual results  
-  - Bug IDs and brief reports  
+  - Priority, Severity and Execution results notes (Passed or Fail). 
 
 📎 **View the Original Sheet:**  
 [Google Sheet Link](https://docs.google.com/spreadsheets/d/1ah_awqbgPxuuhf2vKsi5aM5ITgL46xuMuDaNyFichUk/edit?gid=0#gid=0)
